@@ -1,11 +1,11 @@
 Manifest-Version: 1.0
-Implementation-Title: java-springboot-actor
+Implementation-Title: java-springboot-apprenant
 Implementation-Version: 0.0.1-SNAPSHOT
 Built-By: Philippe
 Implementation-Vendor-Id: co.simplon.example
 Build-Jdk: 1.8.0_181
 Implementation-URL: http://projects.spring.io/spring-boot/java-springb
- oot-actor/
+ oot-apprenant/
 Created-By: Maven Integration for Eclipse
 Implementation-Vendor: Pivotal Software, Inc.
 

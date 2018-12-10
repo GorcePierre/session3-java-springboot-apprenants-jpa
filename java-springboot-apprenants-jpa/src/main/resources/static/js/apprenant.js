@@ -138,7 +138,7 @@ function apprenant_submit(button, httpVerb, table) {
 		}
 	});
 	
-	table.ajax.reload(); // on recharge les données via ajax et la méthode reload()
+	table.reload(); // on recharge les données via ajax et la méthode reload()
 }
 
 function resetForm() {
@@ -217,4 +217,5 @@ function deleteApprenant() {
 			console.log("ERROR : ", e);
 		}
 	});
+	table.reload();
 }
